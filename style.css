@@ -53,6 +53,6 @@ h1, h2, h3 {
     font-weight: 100;
     margin-bottom: 0;
 }
-#mainLeft {
+mainLeft {
     border-right: 1px solid lightgray;
 }
