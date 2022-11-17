@@ -1,8 +1,10 @@
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 12px;
     max-width: 960px;
     margin: auto;
+    background-color: rgb(219, 243, 235);
 }
 
 h1 {
@@ -10,6 +12,7 @@ h1 {
     letter-spacing: .6em;
     padding-top: 1em;
     padding-bottom: 1em;
+    font-weight: bolder;
 }
 
 h2 {
@@ -29,7 +32,9 @@ main {
 header {
     text-align: center;
     margin: auto 2em;
-}
+    color: rgb(1, 2, 70);
+    font-weight: bold;
+}   
 
 section {
     margin: auto 1em 4em 2em;
