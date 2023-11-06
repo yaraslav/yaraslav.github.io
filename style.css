@@ -84,27 +84,27 @@ a .fab {
   color: white;
 }
 
-.course, .skills {
+.work, .skills {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
 }
 
-.course .title {
+.work .title {
   color: #509e98;
   -ms-flex: 0 0 33.3%;
   flex: 0 0 33.3%;
   max-width: 33%;
 }
 
-.course .descrition {
+.work .descrition {
   -ms-flex: 0 0 66.6%;
   flex: 0 0 66.6%;
   max-width: 66.6%;
 }
 
-.course .descrition p {
+.work .descrition p {
   padding-left: 1em;
 }
 
@@ -147,11 +147,11 @@ footer {
 }
 
 @media only screen and (max-width: 768px) {
-  .course {
+  .work {
     display: block;
   }
 
-  .course .title, .course .descrition {
+  .work .title, .course .descrition {
     max-width: 100%;
   }
 }
