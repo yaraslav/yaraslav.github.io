@@ -30,7 +30,7 @@ header, main, footer {
 }
 
 header {
-  padding: 2em;
+  padding: 1em;
   text-align: center;
   background-image: url('./image/network-engineering.jpg');
   background-size: cover;
@@ -40,12 +40,12 @@ header {
 
 header section {
   margin: 0 auto;
-  max-width: 480px;
+  max-width: 720px;
 }
 
 header img {
   border-radius: 50%;
-  max-width: 150px;
+  max-width: 160px;
 }
 
 h1 {
